@@ -134,3 +134,6 @@ config.cache_store = :redis_store, 'redis://localhost:6379/0'
 ```
 config.cache_store = :redis_store, ENV['REDIS_URL']
 ```
+
+##### Sponsored by
+[![FullStack Labs](https://www.fullstacklabs.co/img/fullstack-labs-logo-dark-e8f52558.png)](https://www.fullstacklabs.co)
