@@ -16,6 +16,5 @@ module BarbicanArlington
     # -- all .rb files in that directory are automatically loaded.
 
     config.middleware.use Rack::Attack
-
   end
 end
